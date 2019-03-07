@@ -1,3 +1,5 @@
+[TOC]
+
 # 深入理解JVM值Java字节码(.class)
 
 ## 什么事Class文件
