@@ -12,6 +12,8 @@ class文件中的信息是一项一项排列的， 每项数据都有它的固�
 
 ## Class 文件的结构
 
+![](D:\用户目录\我的文档\jvm\jvm\image\20141008125149484.png)
+
 一个典型的class文件分为：MagicNumber，Version，Constant_pool，Access_flag，This_class，Super_class，Interfaces，Fields，Methods 和Attributes这十个部分，用一个数据结构可以表示如下：
 
 | descriptor     | type                                 |
