@@ -1,21 +1,5 @@
 # CGLIB介绍与原理
 
-2016年03月22日 18:58:06
-
- 
-
-zghw
-
- 
-
-阅读数：45357
-
-更多
-
-个人分类： [java](https://blog.csdn.net/zghwaicsdn/article/category/2702615)
-
-版权声明：本文为博主原创文章，未经博主允许不得转载。	https://blog.csdn.net/zghwaicsdn/article/details/50957474
-
 **CGLIB介绍与原理(部分节选自网络)**
 
 **一、什么是CGLIB?**
